@@ -23,7 +23,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Table(name = "usuario_roupa")
+@Table(name = "usuario_sensor")
 public class Usuario implements UserDetails {
 
     @Id
