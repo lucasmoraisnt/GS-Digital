@@ -22,13 +22,13 @@ public class Sensor {
     @Column(name = "sensor_id")
     private Long sensor_id;
 
-    @Column(name = "dataCadastro")
+    @Column(name = "data_cadastro")
     private String dataCadastro;
 
-    @Column(name = "dataAtualizacao")
+    @Column(name = "data_atualizacao")
     private String dataAtualizacao;
 
-    @Column(name = "botaoAtivo")
+    @Column(name = "botao_ativo")
     private boolean botaoAtivo;
 
 }
