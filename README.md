@@ -2,8 +2,8 @@
 
 ## Endpoints
 - Usuário
-    - [Registrar](#registrar-usuario)
-    - [Login](#login-usuario)
+    - [Registrar](#registrar-usuário)
+    - [Login](#login-usuário)
 - Sensor
     - [Cadastrar](#cadastrar-sensor)
     - [Detalhar](#detalhar-sensor)
@@ -13,7 +13,7 @@
 
 ---
 
-### Registrar Usuario
+### Registrar Usuário
 `POST` /gs/api/registrar
 
 | campo | tipo | obrigatório | descrição
@@ -44,7 +44,7 @@
 
 ---
 
-### Login Usuario
+### Login Usuário
 `POST` /gs/api/login
 
 | campo | tipo | obrigatório | descrição
