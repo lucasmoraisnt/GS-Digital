@@ -6,10 +6,10 @@
     - [Login](#login-usuario)
 - Sensor
     - [Cadastrar](#cadastrar-sensor)
+    - [Detalhar](#detalhar-sensor)
     - [Listar](#listar-sensor)
     - [Apagar](#apagar-sensor)
     - [Alterar](#alterar-sensor)
-    - [Detalhar](#detalhar-sensor)
 
 ---
 
@@ -175,7 +175,7 @@
 
 ---
 
-### Alterar Roupa
+### Alterar Sensor
 `PUT` /gs/api/sensor/{id}
 
 **Exemplo de corpo da resposta**
