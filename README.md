@@ -13,7 +13,7 @@
 
 ---
 
-### Registrar Usuário
+### Registrar Usuario
 `POST` /gs/api/registrar
 
 | campo | tipo | obrigatório | descrição
@@ -44,7 +44,7 @@
 
 ---
 
-### Login Usuário
+### Login Usuario
 `POST` /gs/api/login
 
 | campo | tipo | obrigatório | descrição
