@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'api-gsolution'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21B3C1A342EA4E9A9563CAB841A1BDC7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD1A5BD4E88D4C6C9574206D58474B9B }}
           package: '*.jar'
